@@ -3,6 +3,7 @@ export const testFunction = () => {
     console.log("Amazing");
     console.log("Awesome");
     console.log("Changed again");
+    console.log("test change")
     return true;
 
 }
